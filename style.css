@@ -40,7 +40,6 @@ html {
 }
 .name__content {
 	margin: 10px 0px;
-
 	font-family: "Fira Sans", sans-serif;
 	font-size: 27px;
 	text-align: center;
@@ -96,6 +95,12 @@ html {
 		font-family: "Gluten", cursive;
 		border-bottom: 2px solid rgb(73, 166, 233);
 	}
+	.name__content {
+		margin: 5px 0px;
+		font-family: "Fira Sans", sans-serif;
+		font-size: 25px;
+		text-align: center;
+	}
 	.content {
 		margin: 10px;
 	}
@@ -109,6 +114,9 @@ html {
 	.description__content {
 		margin: 10px 0px;
 		font-family: "Fira Sans", sans-serif;
-		font-size: 16px;
+		font-size: 14px;
+	}
+	.controls {
+		padding: 10px 20px;
 	}
 }
